@@ -1,6 +1,4 @@
-package leetcode;
-
-import java.util.ArrayList;
+package leetcode.array;
 
 public class ReverseWordInString {
     public static void main(String[] args) {

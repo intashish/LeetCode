@@ -1,6 +1,4 @@
-package leetcode;
-
-import java.util.Map;
+package leetcode.array;
 
 public class BuyAndSllStocks {
     public static void main(String[] args) {

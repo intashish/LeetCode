@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.linked_list;
 
 public class RemoveDuplicateFromList {
 

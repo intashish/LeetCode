@@ -1,6 +1,4 @@
-package leetcode;
-
-import java.util.*;
+package leetcode.array;
 
 public class MajorityElement {
     public static void main(String[] args) {

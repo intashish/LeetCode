@@ -1,6 +1,4 @@
-package leetcode;
-
-import java.util.List;
+package leetcode.linked_list;
 
 public class LinkedListCycle {
     public static void main(String[] args) {

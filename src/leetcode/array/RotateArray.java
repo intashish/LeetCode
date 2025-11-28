@@ -1,8 +1,4 @@
-package leetcode;
-
-import java.sql.Array;
-import java.util.HashMap;
-import java.util.Map;
+package leetcode.array;
 
 public class RotateArray {
 

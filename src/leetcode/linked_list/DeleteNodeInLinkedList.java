@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.linked_list;
 
 public class DeleteNodeInLinkedList {
     public static void main(String[] args) {

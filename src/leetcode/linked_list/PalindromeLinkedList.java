@@ -1,6 +1,4 @@
-package leetcode;
-
-import java.util.Stack;
+package leetcode.linked_list;
 
 public class PalindromeLinkedList {
     public static void main(String[] args) {
